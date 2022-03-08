@@ -1,0 +1,1 @@
+Scala With Cats exercises 
