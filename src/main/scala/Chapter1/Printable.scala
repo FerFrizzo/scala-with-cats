@@ -76,11 +76,14 @@ object Felinity extends App {
       cat1.name === cat2.name && cat1.age === cat2.age && cat1.color === cat2.color
     }
 
+  val x = "08001510900"
 
   println(cat1 === cat2)
   println(cat1 === cat3)
   println(optionCat1 === optionCat2)
   println(optionCat1 === optionCat3)
   println(optionCat1 =!= optionCat3)
+
+
 
 }
